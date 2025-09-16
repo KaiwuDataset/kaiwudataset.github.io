@@ -5,8 +5,8 @@ Cutting-edge robot learning techniques including foundation models and imitation
 #### Contact
 
 Email:\
-jiangshuo[at]tongji.edu.cn\
-2332103[at]tongji.edu.cn
+jiangshuo@tongji.edu.cn\
+2332103@tongji.edu.cn
 
 #### Paper
 [[Paper]](https://ieeexplore.ieee.org/document/11160665)
