@@ -4,8 +4,9 @@
 Cutting-edge robot learning techniques including foundation models and imitation learning from humans all pose huge demands on large-scale and high-quality datasets which constitute one of the bottleneck in the general intelligent robot fields. This paper presents the Kaiwu  multimodal dataset to address the missing real-world synchronized multimodal data problems in the sophisticated assembling scenario, especially with dynamics information and its fine-grained labelling. The dataset first provides an integration of human, environment and robot data collection framework with 20 subjects and 30 interaction objects resulting in totally 11,664 instances of integrated actions. For each of the demonstration, hand motions, operation pressures, sounds of the assembling process, multi-view videos, high-precision motion capture information, eye gaze with first-person videos, electromyography signals are all recorded. Fine-grained multi-level annotation based on absolute timestamp, and semantic segmentation labelling are performed. Kaiwu dataset aims to facilitate robot learning, dexterous manipulation, human intention investigation and human-robot collaboration research. The dataset is accessible via https://doi.org/10.57760/sciencedb.14937. 
 #### Contact
 
-Email: jiangshuo[at]tongji.edu.cn\
-       2332103[at]tongji.edu.cn
+Email:\
+jiangshuo[at]tongji.edu.cn\
+2332103[at]tongji.edu.cn
 
 #### Paper
 [[Paper]](https://ieeexplore.ieee.org/document/11160665)
