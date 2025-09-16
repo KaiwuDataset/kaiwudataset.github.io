@@ -1,16 +1,7 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- National Key R&D Program of China (Grant No. 2024YFB4707600)
 
-- National Scholarship for Graduate Student, 2024.
+- National Natural Science Foundation of China, under grants W2441018, 62088101
 
-- First-Prize Scholarship (CUMT), 2024.
+- Shanghai Municipal Science and Technology 24511104400 and Major Project (2021SHZDZX0100)
 
-- First-Prize Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
