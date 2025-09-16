@@ -10,6 +10,8 @@ jiangshuo@tongji.edu.cn\
 2332103@tongji.edu.cn
 
 #### Paper
+Please cite the following paper when using the KAIWU dataset.
+
 [[Paper]](https://ieeexplore.ieee.org/document/11160665)
 S. Jiang, H. Li, R. Ren, Y. Zhou, Z. Wang and B. He, "Kaiwu: A Multimodal Manipulation Dataset and Framework for Robot Learning and Human-Robot Interaction," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2025.3609615.
 
